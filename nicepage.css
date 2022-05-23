@@ -21466,7 +21466,7 @@ a.u-button-style.u-border-20 {
 }
 /*begin-variables font-family*/
 .u-body {
-  font-family: 'Open Sans',sans-serif;
+  font-family: 'Didact Gothic';
 }
 h1,
 h2,
@@ -21474,7 +21474,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: Roboto,sans-serif;
+  font-family: 'Didact Gothic';
 }
 /*end-variables font-family*/
 /*begin-variables color*/
@@ -21495,10 +21495,10 @@ h6 {
 /*end-variables color*/
 /*begin-variables font*/
 .u-custom-font.u-text-font {
-  font-family: 'Open Sans',sans-serif !important;
+  font-family: 'Didact Gothic' !important;
 }
 .u-custom-font.u-heading-font {
-  font-family: Roboto,sans-serif !important;
+  font-family: 'Didact Gothic' !important;
 }
 /*end-variables font*/
 /*begin-variables colors*/
@@ -36943,8 +36943,8 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-image-1 {
-  width: 91px;
-  height: 47px;
+  width: 119px;
+  height: 62px;
   margin: 15px auto 0 0;
 }
 
@@ -36967,7 +36967,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 @media (max-width: 1199px) {
   .u-header .u-image-1 {
-    width: 91px;
+    width: 119px;
   }
 
   .u-header .u-menu-1 {
