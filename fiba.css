@@ -1031,6 +1031,25 @@
   margin: 14px auto 0 0;
 }
 
+.u-section-6 .u-image-11 {
+  width: 180px;
+  height: 180px;
+  object-position: 50% 0%;
+  background-image: url("images/ichinkhorloo.jpg");
+  background-position: 50% 50%;
+  margin: 14px auto 0 0;
+}
+
+.u-section-6 .u-image-12 {
+  width: 180px;
+  height: 180px;
+  object-position: 50% 0%;
+  background-image: url("images/bambar.jpg");
+  background-position: 50% 50%;
+  margin: 14px auto 0 0;
+}
+
+
 
 .u-section-6 .u-text-14 {
   font-weight: 700;
