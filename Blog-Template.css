@@ -112,15 +112,21 @@
     min-height: 956px;
   }
 
-  .u-section-1 .u-repeater-1 {
+  .u-section-1 .u-repeater-3 {
     min-height: 836px;
     grid-template-columns: repeat(2, calc(50% - 11.25px));
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-repeater-1 {
+  .u-section-1 .u-repeater-3 {
     grid-template-columns: 100%;
+  }
+  .u-repeater-3 {
+    grid-template-columns: 100% !important;
+  }
+  .u-repeater {
+    grid-template-columns: repeat(1, calc(100%)) !important;
   }
 
   .u-section-1 .u-container-layout-1 {

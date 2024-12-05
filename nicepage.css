@@ -19624,7 +19624,14 @@ a.pswp__share--download:hover {
   .u-table-responsive tfoot td {
     white-space: nowrap;
   }
+
+
+  .u-repeater {
+    display: grid;
+    grid-template-columns: repeat(1, 100%);
+  }
 }
+
 .u-custom-list {
   list-style-type: none;
   padding-left: 0;
