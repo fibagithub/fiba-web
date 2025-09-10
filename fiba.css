@@ -526,9 +526,10 @@
 }
 
 .u-section-5 .u-image-1 {
-  min-height: 455px;
-  background-image: url("images/priscilla-du-preez-OEdkPaxYMXU-unsplash-99.jpg");
-  background-position: 76.9% 50%;
+  min-height: 500px;
+  background-image: url("images/fibamap.png");
+  background-position: 50% 50%;
+  background-size: contain;
 }
 
 .u-section-5 .u-container-layout-2 {
