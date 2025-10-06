@@ -1651,3 +1651,27 @@
  body {
    font-family: 'Roboto', sans-serif;
  }
+
+ /* Жижиг дэлгэц дээр 1 багана болгож байрлуулах */
+@media (max-width: 768px) {
+  .u-section-6 .u-repeater-3 {
+    display: flex !important;
+    flex-direction: column !important; /* бүгд босоо дарааллаар */
+    align-items: center !important; /* голлуулна */
+  }
+
+  .u-section-6 .u-repeater-3 .u-list-item {
+    width: 100% !important; /* item бүр 100%-ийн өргөнтэй */
+    max-width: 400px; /* хүсвэл дээд хязгаар */
+    margin: 0 auto 20px auto; /* голлуулж, доогуур зай өгнө */
+  }
+
+  .u-section-6 .u-image-circle {
+    margin: 0 auto 15px auto !important; /* зураг төвд */
+    display: block !important;
+  }
+
+  .u-section-6 .u-text {
+    text-align: center !important; /* нэр ба тайлбар төвд */
+  }
+}
